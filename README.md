@@ -1,2 +1,2 @@
-# generate-documentation-system
-Sample system for creating documentation in TIBCO Developer Hub.
+# tibco-next-demo
+Repository with the files for the TIBCO Next Demo
